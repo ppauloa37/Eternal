@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #121212;
+  color: #f0f0f0;
+}
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  background: #00ccff;
+  border: none;
+  border-radius: 5px;
+  color: #121212;
+}
+#status {
+  margin-bottom: 20px;
+  font-size: 22px;
+}
