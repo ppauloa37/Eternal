@@ -1,0 +1,12 @@
+{
+  "name": "eternal",
+  "version": "1.0.0",
+  "description": "Painel estilo Aternos chamado Eternal com Node e Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
